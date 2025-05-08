@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Brandonkhumalo
-- 👀 I’m interested in Mobile development with java and Backend development with Python Django
+# 👋 Hi, I’m Brandon khumalo - Mobile and Backend Developer
 - 🌱 I’m currently learning Pro Dev Backend with ALX
 
   I am an entry-level mobile and backend developer with expertise in Java for Android development and Django for backend systems. I have been actively building projects  to sharpen my skills.  My top skills include mobile app development, backend API integration, and problem-solving. What sets me apart is my ability to build scalable, efficient, and user-friendly applications while continuously learning and adapting to new technologies. 
